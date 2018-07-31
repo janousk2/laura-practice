@@ -3,3 +3,5 @@ Conversions
 - Dollars to Cents
 - Galloons to Liters
 - Hours to Minutes
+-Feet to Inches
+-Pounds to Ounces
